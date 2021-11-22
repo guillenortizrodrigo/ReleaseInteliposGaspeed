@@ -1,6 +1,65 @@
-{
-  "url":"https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
-  "versionCode":14,
-  "modalidad":"Pruebas",
-  "updateMessage":"Ver 1.14. Actualización "
-}
+[
+  {
+    "aceites": "aceites",
+    "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
+    "versionCode": 14,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.14. Actualización "
+  },
+  {
+    "flotilla": "flotilla",
+    "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
+    "versionCode": 14,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.14. Actualización "
+  },
+  {
+    "facturacion": "facturacion",
+    "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
+    "versionCode": 14,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.14. Actualización "
+  },
+  {
+    "prepago": "prepago",
+    "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
+    "versionCode": 14,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.14. Actualización "
+  },
+  {
+    "preseleccion": "preseleccion",
+    "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
+    "versionCode": 14,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.14. Actualización "
+  },
+  {
+    "recibo": "recibo",
+    "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
+    "versionCode": 14,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.14. Actualización "
+  },
+  {
+    "tickets": "tickets",
+    "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
+    "versionCode": 14,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.14. Actualización "
+  },
+  {
+    "cancelarpre": "cancelarpre",
+    "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
+    "versionCode": 14,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.14. Actualización "
+  },
+  {
+    "consultasaldos": "consultasaldos",
+    "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
+    "versionCode": 14,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.14. Actualización "
+  }
+]
