@@ -1,62 +1,62 @@
 [
   {
-    "aceites": "aceites",
+    "aplicativo": "AceitesApp",
     "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
     "versionCode": 14,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.14. Actualización "
   },
   {
-    "flotilla": "flotilla",
+    "aplicativo": "CancelPrefApp",
     "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
     "versionCode": 14,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.14. Actualización "
   },
   {
-    "facturacion": "facturacion",
+    "aplicativo": "consultarSaldoApp",
     "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
     "versionCode": 14,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.14. Actualización "
   },
   {
-    "prepago": "prepago",
+    "aplicativo": "FlotillaApp",
     "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
     "versionCode": 14,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.14. Actualización "
   },
   {
-    "preseleccion": "preseleccion",
+    "aplicativo": "FacturacionApp",
     "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
     "versionCode": 14,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.14. Actualización "
   },
   {
-    "recibo": "recibo",
+    "aplicativo": "prepagoApp",
     "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
     "versionCode": 14,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.14. Actualización "
   },
   {
-    "tickets": "tickets",
+    "aplicativo": "PreseleccionApp",
     "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
     "versionCode": 14,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.14. Actualización "
   },
   {
-    "cancelarpre": "cancelarpre",
+    "aplicativo": "ReciboApp",
     "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
     "versionCode": 14,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.14. Actualización "
   },
   {
-    "consultasaldos": "consultasaldos",
+    "aplicativo": "TicketsApp",
     "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
     "versionCode": 14,
     "modalidad": "Pruebas",
