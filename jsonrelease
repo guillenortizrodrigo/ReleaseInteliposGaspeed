@@ -29,10 +29,10 @@
   },
   {
     "aplicativo": "FacturacionApp",
-    "url": "https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
+    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/facturacionApp_1_3.apk",
     "versionCode": 3,
     "modalidad": "Pruebas",
-    "updateMessage": "Ver 1.14. Actualización "
+    "updateMessage": "Ver 1.3. Actualización "
   },
   {
     "aplicativo": "prepagoApp",
