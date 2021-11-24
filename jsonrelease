@@ -16,9 +16,9 @@
   {
     "aplicativo": "consultarSaldoApp",
     "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/consultarSaldoApp_1_2.apk",
-    "versionCode": 3,
+    "versionCode": 2,
     "modalidad": "Pruebas",
-    "updateMessage": "Ver 1.3. Actualización "
+    "updateMessage": "Ver 1.2. Actualización "
   },
   {
     "aplicativo": "FlotillaApp",
