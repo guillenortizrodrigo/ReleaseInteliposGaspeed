@@ -29,10 +29,10 @@
   },
   {
     "aplicativo": "FacturacionApp",
-    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/facturacionApp_1_5.apk",
-    "versionCode": 5,
+    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/facturacionApp_1_6.apk",
+    "versionCode": 6,
     "modalidad": "Pruebas",
-    "updateMessage": "Ver 1.5. Actualización "
+    "updateMessage": "Ver 1.6. Actualización "
   },
   {
     "aplicativo": "prepagoApp",
