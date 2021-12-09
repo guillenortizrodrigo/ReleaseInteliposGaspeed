@@ -1,10 +1,10 @@
 [
   {
     "aplicativo": "AceitesApp",
-    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/aceitesApp_1_5.apk",
-    "versionCode": 5,
+    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/aceitesApp_1_4.apk",
+    "versionCode": 4,
     "modalidad": "Pruebas",
-    "updateMessage": "Ver 1.5. Actualización "
+    "updateMessage": "Ver 1.4. Actualización "
   },
   {
     "aplicativo": "CancelPrefApp",
